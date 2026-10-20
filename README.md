@@ -1,4 +1,4 @@
-# Hai, saya Diyani 👋
+# Hai, saya Diyani 😸
 
 Mahasiswa **Universitas Siliwangi** yang sedang fokus membangun aplikasi web dan mobile.
 
